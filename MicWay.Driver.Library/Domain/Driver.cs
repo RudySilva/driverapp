@@ -31,7 +31,10 @@ namespace MicWay.Driver.Library.Models
 
         [Required(ErrorMessage = "The Date of Birthday is required")]
         [DataType(DataType.Date, ErrorMessage = "Invalid Date Format")]
+<<<<<<< HEAD
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
+=======
+>>>>>>> 1018125f4e997d39e4bf3a495816a6e9f9ba813c
         [Display(Name = "Date of Birthday")]
         public DateTime Dob { get; set; }
 
