@@ -39,7 +39,6 @@ D:\Projects\MicWay.Driver\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.
 D:\Projects\MicWay.Driver\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.csproj.CopyComplete
 D:\Projects\MicWay.Driver\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.dll
 D:\Projects\MicWay.Driver\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.pdb
-<<<<<<< HEAD
 D:\Projects\driverapp\MicWay.Driver.Library\bin\Debug\MicWay.Driver.Library.dll.config
 D:\Projects\driverapp\MicWay.Driver.Library\bin\Debug\MicWay.Driver.Library.dll
 D:\Projects\driverapp\MicWay.Driver.Library\bin\Debug\MicWay.Driver.Library.pdb
@@ -54,5 +53,3 @@ D:\Projects\driverapp\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.cspr
 D:\Projects\driverapp\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.csproj.CopyComplete
 D:\Projects\driverapp\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.dll
 D:\Projects\driverapp\MicWay.Driver.Library\obj\Debug\MicWay.Driver.Library.pdb
-=======
->>>>>>> 1018125f4e997d39e4bf3a495816a6e9f9ba813c

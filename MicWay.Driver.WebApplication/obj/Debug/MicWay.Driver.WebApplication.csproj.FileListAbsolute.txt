@@ -106,7 +106,6 @@ D:\Projects\MicWay.Driver\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.W
 D:\Projects\MicWay.Driver\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.WebApplication.csproj.CopyComplete
 D:\Projects\MicWay.Driver\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.WebApplication.dll
 D:\Projects\MicWay.Driver\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.WebApplication.pdb
-<<<<<<< HEAD
 D:\Projects\driverapp\MicWay.Driver.WebApplication\bin\ApplicationInsights.config
 D:\Projects\driverapp\MicWay.Driver.WebApplication\bin\MicWay.Driver.WebApplication.dll.config
 D:\Projects\driverapp\MicWay.Driver.WebApplication\bin\MicWay.Driver.WebApplication.dll
@@ -161,5 +160,3 @@ D:\Projects\driverapp\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.WebAp
 D:\Projects\driverapp\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.WebApplication.csproj.CopyComplete
 D:\Projects\driverapp\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.WebApplication.dll
 D:\Projects\driverapp\MicWay.Driver.WebApplication\obj\Debug\MicWay.Driver.WebApplication.pdb
-=======
->>>>>>> 1018125f4e997d39e4bf3a495816a6e9f9ba813c
